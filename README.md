@@ -13,7 +13,7 @@ Run our code with IEMOCAP dataset
 
 "python my_IEMOCAP.py"
 
-Run out code wit AVEC dataset
+Run our code wit AVEC dataset
 
 "python my_AVEC.py"
 # Dateset
