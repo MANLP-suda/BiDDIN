@@ -3,10 +3,11 @@ This is the code for our paper: Modeling both Intra- and Inter-modal Influence f
 
 If you use this code for academic research, please site the paper:
 ```
-@inproceedings{
+@article{
   title     = {Modeling both Intra- and Inter-modal Influence for Real-Time Emotion Detection in Conversations},
-  author    = {Dong Zhang, Weisheng Zhang, Shoushan Li, Qiaoming Zhu, Guodong Zhou},
+  author    = {Zhang, Dong and Zhang, Weisheng and Li, Shoushan and Zhu, Qiaoming and Zhou, Guodong},
   booktitle = {Proceedings of the 28th ACM International Conference on Multimedia},
+  pages     = {503--511},
   month     = {October},
   year      = {2020},
   address   = {Seattle, WA, USA},
